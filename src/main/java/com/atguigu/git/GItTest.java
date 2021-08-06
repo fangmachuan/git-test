@@ -18,5 +18,6 @@ public class GItTest {
         System.out.println("gitee test2!");
         System.out.println("gitee test2!");
         System.out.println("master t123est2!");
+        System.out.println("master t123est2!");
     }
 }
